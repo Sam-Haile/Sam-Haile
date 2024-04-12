@@ -1,4 +1,25 @@
-### Hi there 👋
+### Hello, I'm Sam!
+
+# About Me 👋
+
+- **Education** Rochester Institute of Technology
+- **Field**: Game Design and Development
+- **Skills**: C#, C++, Unity, Unreal Engine
+- **Interests**: Advancing game development technologies and immersive gameplay
+
+# Achievements 🌟
+
+- Successfully solo developed an app during my co-op placement
+- Collaborated on innovative game projects
+- Currently exploring AI integration in gaming
+
+# Collaboration 🚀
+
+- Passionate about creative and innovative team projects
+- Looking for opportunities to contribute to groundbreaking work
+
+
+
 
 <!--
 **Sam-Haile/Sam-Haile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
