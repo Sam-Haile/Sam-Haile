@@ -7,12 +7,6 @@
 - **Skills**: C#, C++, Unity, Unreal Engine
 - **Interests**: Advancing game development technologies and immersive gameplay
 
-# Achievements 🌟
-
-- Successfully solo developed an app during my co-op placement
-- Collaborated on innovative game projects
-- Currently exploring AI integration in gaming
-
 # Collaboration 🚀
 
 - Passionate about creative and innovative team projects
